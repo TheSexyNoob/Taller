@@ -6,11 +6,11 @@ namespace Taller_LuisNR
 {
     class Usuario
     {
-        string User { get; set; }
-        string Name { get; set; }
-        string TipoUsario { get; set; }
-        string LastName { get; set; }
-        int Id { get; set; }
+       public string User { get; set; }
+        public string Name { get; set; }
+        public string TipoUsario { get; set; }
+        public string LastName { get; set; }
+        public int Id { get; set; }
 
 
 

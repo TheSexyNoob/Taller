@@ -9,3 +9,14 @@ C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller_LuisNR\Taller_LuisN
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller_LuisNR\Taller_LuisNR\bin\Debug\netcoreapp2.0\Taller_LuisNR.pdb
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.dll
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.pdb
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\bin\Debug\netcoreapp2.0\Taller_LuisNR.deps.json
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\bin\Debug\netcoreapp2.0\Taller_LuisNR.runtimeconfig.json
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\bin\Debug\netcoreapp2.0\Taller_LuisNR.runtimeconfig.dev.json
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\bin\Debug\netcoreapp2.0\Taller_LuisNR.dll
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\bin\Debug\netcoreapp2.0\Taller_LuisNR.pdb
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.csprojAssemblyReference.cache
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.csproj.CoreCompileInputs.cache
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.AssemblyInfoInputs.cache
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.AssemblyInfo.cs
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.dll
+C:\Users\Julio D\Documents\GitHub\Taller\Taller_LuisNR\Taller_LuisNR\obj\Debug\netcoreapp2.0\Taller_LuisNR.pdb

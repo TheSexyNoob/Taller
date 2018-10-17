@@ -6,12 +6,13 @@ namespace Taller_LuisNR
     {
         static void Main(string[] args)
         {
+           
             Admin admin = new Admin();
             admin.n1();
+           
 
-            
 
-       
+
         }
     }
 }
